@@ -1,0 +1,11 @@
+---
+title: "Mon premier article"
+format: html
+---
+
+# Bienvenue
+
+Voici une équation mathématique : $E = mc^2$
+
+Et un paragraphe de texte.
+
