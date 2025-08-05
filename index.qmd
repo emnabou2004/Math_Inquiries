@@ -1,5 +1,5 @@
 ---
-title: "math-blog"
+title: Math_Inquiries"
 listing:
   contents: posts
   sort: "date desc"
