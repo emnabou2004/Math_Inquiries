@@ -1,5 +1,5 @@
 ---
-title: Math_Inquiries"
+title: "Math_Inquiries"
 listing:
   contents: posts
   sort: "date desc"
